@@ -1,3 +1,3 @@
-# SpectralX: A Spectral-Aware Xception Network with Uncertainty Modeling for Robust Automatic Modulation Classification
+# DG-AMC
 
 Code is coming soon!
