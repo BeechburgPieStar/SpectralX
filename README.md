@@ -1,3 +1,3 @@
-# Towards Robust Automatic Modulation Classification with Domain Generalization
+# SpectralX: Spectral-Aware Multi-Scale Representation Learning for Radio Signals
 
 Code is coming soon!
