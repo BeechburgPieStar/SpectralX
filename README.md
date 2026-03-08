@@ -1,3 +1,3 @@
-# SpectralX: Spectral-Aware Multi-Scale Representation Learning for Radio Signals
+# SpectralX: A Unified Spectral-Aware Architecture for Radio Signal Analysis
 
 Code is coming soon!
