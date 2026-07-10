@@ -247,39 +247,6 @@ with a `MultiStepLR` schedule (`gamma=0.5`). Testing reports both AR and IL accu
 
 > The default `--cuda` index is `0` for AMC and `1` for RFF/JARIL — set `--cuda` to a valid GPU id on your machine.
 
----
-
-## Results (from the paper)
-
-**AMC — RML2018.01a** (Avg. over all SNRs / Avg. over high SNR 10–30 dB / Max):
-
-| Model | Avg. (All) | Avg. (High) | Max | Params |
-|-------|-----------|-------------|-----|--------|
-| SpectralX-S | 62.54% | 97.02% | 97.25% | 30.35K |
-| SpectralX-M | 63.32% | 98.17% | 98.40% | 108.23K |
-| SpectralX-L | **63.61%** | **98.39%** | **98.60%** | 406.75K |
-
-**RFF — ORACLE** (source `S` / target `T` accuracy):
-
-| Model | S | T | Params |
-|-------|-----|-----|--------|
-| SpectralX-S | 97.50% | **83.00%** | 29.56K |
-| SpectralX-M | 99.62% | 71.88% | 106.68K |
-| SpectralX-L | 99.75% | 65.50% | 403.66K |
-
-**WS — ARIL** (Activity Recognition / Indoor Localization):
-
-| Model | AR | IL | Params |
-|-------|-----|-----|--------|
-| SpectralX-S | 91.37% | 98.56% | 42.20K |
-| SpectralX-M | 95.32% | 98.92% | 152.42K |
-| SpectralX-L | **95.68%** | 99.28% | 577.05K |
-
-Removing the ASR/ASB module (`--no_asb`) consistently degrades accuracy across all three tasks,
-confirming the value of instance-adaptive spectral refinement.
-
----
-
 ## Citation
 
 If you find this work useful, please cite:
