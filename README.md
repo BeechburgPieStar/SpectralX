@@ -1,6 +1,7 @@
 # SpectralX: A Unified Spectral-Aware Architecture for Radio Signal Analysis
 
-Official PyTorch implementation of the IEEE Communications Letters paper
+# Submit to IEEE Communications Letters
+
 **"SpectralX: A Unified Spectral-Aware Architecture for Radio Signal Analysis"**.
 
 SpectralX is a **unified, lightweight** backbone for three heterogeneous radio-signal tasks:
