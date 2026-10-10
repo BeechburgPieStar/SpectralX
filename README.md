@@ -256,7 +256,7 @@ If you find this work useful, please cite:
 @article{huang2025spectralx,
   title   = {SpectralX: A Unified Spectral-Aware Architecture for Radio Signal Analysis},
   author  = {Huang, Hao and Wang, Yu and Shi, Zheng},
-  journal = {Submitted to IEEE Communications Letters},
+  journal = {IEEE Communications Letters},
   year    = {2026}
 }
 ```
