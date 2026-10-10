@@ -1,6 +1,6 @@
 # SpectralX: A Unified Spectral-Aware Architecture for Radio Signal Analysis
 
-# Submit to IEEE Communications Letters
+# Accept by IEEE Communications Letters
 
 **"SpectralX: A Unified Spectral-Aware Architecture for Radio Signal Analysis"**.
 
