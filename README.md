@@ -254,9 +254,10 @@ If you find this work useful, please cite:
 
 ```bibtex
 @article{huang2025spectralx,
-  title   = {SpectralX: A Unified Spectral-Aware Architecture for Radio Signal Analysis},
-  author  = {Huang, Hao and Wang, Yu and Shi, Zheng},
-  journal = {IEEE Communications Letters},
-  year    = {2026}
+  author={Huang, Hao and Wang, Yu and Shi, Zheng},
+  journal={IEEE Communications Letters}, 
+  title={SpectralX: A Unified Spectral-Aware Architecture for Radio Signal Analysis}, 
+  year={2026},
+  doi={10.1109/LCOMM.2026.3743057}}
 }
 ```
